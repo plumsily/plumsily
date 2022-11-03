@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin!</h1>
-<h3 align="center">Creative, collaborative, Software Engineer with a passion in building satisfying user experiences!</h3>
+<p align="left">I’m a full-stack software developer with experience in React and Node frameworks. I'm focused on creating products centered on satisfying user experiences. With a background in product design, mechanical engineering, aircraft design, and art - I apply a diverse set of approaches to develop meaningful ideas. I just love learning about new technologies and skills to improve what I create!</p>
 <br>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plumsily" alt="plumsily" /></a> </p> -->
@@ -17,8 +17,8 @@
 - ⚡ Fun fact **I love building modern-style, wood furniture in my free time!**
 <br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="leftr">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/justinsangwonlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justinsangwonlee" height="30" width="40" /></a>
 <a href="https://twitter.com/plumsily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plumsily" height="30" width="40" /></a>
 <a href="https://codepen.io/plumsily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="plumsily" height="30" width="40" /></a>
@@ -26,8 +26,8 @@
 </p>
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -52,5 +52,8 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 <br>
+<br>
 
-<p"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plumsily&show_icons=true&locale=en&layout=compact" alt="plumsily" height="130" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=plumsily&show_icons=true&locale=en" alt="plumsily" height="130"/>  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plumsily&" alt="plumsily" height="130"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plumsily&show_icons=true&locale=en&layout=compact" alt="plumsily" height="175" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=plumsily&show_icons=true&locale=en" alt="plumsily" height="175"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plumsily&" alt="plumsily" height="175"/></p>
