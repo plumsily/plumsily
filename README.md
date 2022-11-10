@@ -60,4 +60,6 @@
 <br>
 
 <h2 align="center">📈 Stats:</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plumsily&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="plumsily" /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=plumsily&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=0D1117" alt="plumsily" /></p><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plumsily&theme=dark&hide_border=true&background=0D1117" alt="plumsily" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plumsily&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="plumsily" /></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=plumsily&show_icons=true&theme=dark&locale=en&hide_border=true&bg_color=0D1117" alt="plumsily" /></p><p align="center"></p>
+
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plumsily&theme=dark&hide_border=true&background=0D1117" alt="plumsily" /> -->
