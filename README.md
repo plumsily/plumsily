@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin!</h1>
-<h4 align="left">I’m a full-stack software developer with experience in React and Node frameworks. I'm focused on creating products centered on satisfying user experiences. With a background in product design, mechanical engineering, aircraft design, and art - I apply a diverse set of approaches to develop meaningful ideas. I love learning about new technologies and want to continue working with diverse, passionate teams to create a better future!</h4>
+<h4 align="left">I’m a full-stack software developer with experience in HTML, CSS, JavaScript, React and Node frameworks. I'm focused on creating web applications centered on satisfying user experiences and needs. With an extensive background in product design for over 4 years - I apply meaningful solutions to complex technical problems. I love to learn about new technologies and skills to add to my toolkit!</h4>
 <br>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plumsily" alt="plumsily" /></a> </p> -->
