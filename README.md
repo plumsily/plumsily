@@ -12,7 +12,7 @@
 
 - 💬 Ask me about 🖨️ **3D printing**, 🛋️ **interior design**, ✈️ **aerodynamics**
 
-- 📫 How to reach me **plumsylee@gmail.com**
+- 📫 How to reach me **justin.sangwon.lee@gmail.com**
 
 - ⚡ Fun fact **I love building modern-style, wood furniture in my free time!**
 <br>
