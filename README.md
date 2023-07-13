@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Justin!</h1>
-<h4 align="left">I’m a full-stack software developer with experience in HTML, CSS, JavaScript, React and Node frameworks. I'm focused on creating web applications centered on satisfying user experiences and needs. With an extensive background in product design for over 4 years - I apply meaningful solutions to complex technical problems. I love to learn about new technologies and skills to add to my toolkit!</h4>
+<h4 align="left">I’m a full-stack software developer with experience in React/Next.js and Node frameworks. I'm focused on creating web applications centered on satisfying user experiences and needs. With an extensive background in product design for over 4 years - I apply meaningful solutions to complex technical problems. I love to learn about new technologies and skills to add to my toolkit!</h4>
 <br>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plumsily" alt="plumsily" /></a> </p> -->
 
-- 🔭 I’m currently working on [TypeDex](https://github.com/plumsily/typedex)
+- 🔭 I’m currently working on [Optic](https://github.com/SmileML-Engineering) with the team at SmileML!
 
 - 🌱 I’m currently learning **MySQL, PostgreSQL**
 
