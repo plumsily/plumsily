@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [Optic](https://github.com/SmileML-Engineering) with the team at SmileML!
 
-- 🌱 I’m currently learning **MySQL, PostgreSQL**
-
 - 👨‍💻 All of my projects are available at [https://plumsily.github.io/portfolio/](https://plumsily.github.io/portfolio/)
 
 - 💬 Ask me about 🖨️ **3D printing**, 🛋️ **interior design**, ✈️ **aerodynamics**
