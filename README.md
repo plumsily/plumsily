@@ -4,7 +4,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plumsily" alt="plumsily" /></a> </p> -->
 
-- 🔭 I’m currently working on [Optic](https://github.com/SmileML-Engineering) with the team at SmileML!
+- 🔭 I’m currently working on [Edvo]([https://github.com/SmileML-Engineering](https://www.edvo.com/)) a personal database management app with the team at Edvo!
 
 - 👨‍💻 All of my projects are available at [https://plumsily.github.io/portfolio/](https://plumsily.github.io/portfolio/)
 
